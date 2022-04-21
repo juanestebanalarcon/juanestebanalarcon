@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 * SpringBoot (Maven - Gradle)
 * Flask
 * fastApi
-### Databases:
+### - Databases:
 * MySQL (mariaDB)
 * PostgreSQL
 * SQL Server
