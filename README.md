@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🇨🇴 I'm from Colombia.
 - 💻 I’m currently working at **LOGYCA** as **Developer**
+- 🌱 I’m currently learning ReactJS
 - 📚 I'm **Computer Engineering** Student of last year.
 - 📈 I have eight months of work experience, but I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
@@ -36,10 +37,11 @@ Here are some ideas to get you started:
 
 ### - Frontend:
 * Angular (TypeScript, Angular material, PrimeNg)
+* VueJS
 * Django
 * ASP.Net
 * HTML
-* CSS
+* CSS (Bootstrap)
 * Flask
 ### - Backend:
 * NodeJS
