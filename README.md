@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🇨🇴 I'm from Colombia.
 - 💻 I’m currently working at **LOGYCA** as **Developer**
 - 📚 I'm **Computer Engineering** Student of last year.
 - 📈 I have eight months of work experience, but I have developed different projects in technologies that are demanded in the market.
--
+(You should see my repositories).
+
 ## My Abilities
 - Team work
 - Problem solving
