@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently working at **LOGYCA** as **Developer**
 - 🌱 I’m currently learning ReactJS
 - 📚 I'm **Computer Engineering** Student in my last year.
-- 📈 I have nine months of work experience, but I have developed different projects in technologies that are demanded in the market.
+- 📈 I have ten months of work experience, but I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
 
 ## My Abilities
