@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💻 Former **Developer** at **Logyca**
 - 🌱 I’m currently learning ReactJS
 - 📚 I'm **Computer Engineering** Student in my last year.
-- 📈 I have ten months of work experience, but I have developed different projects in technologies that are demanded in the market.
+- 📈 I have 1 year of work experience, but I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
 - ⚡ Fun fact: I like to always be busy
 
