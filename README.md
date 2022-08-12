@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🇨🇴 I'm from Colombia.
-- 💻 I’m currently working at **Inchcape DDC Colombia** as **Salesforce Marketing Cloud Developer**
+- 💻 I’m currently working at **Indra Colombia** as *APX Developer**
 - 💻 Former **Developer** at **Logyca**
+- 💻  Former **Salesforce Marketing Cloud Developer** at **Inchcape DDC Colombia**
+
 - 🌱 I’m currently learning ReactJS
 - 📚 I'm **Computer Engineering** Student in my last year.
 - 📈 I have 1 year of work experience, but I have developed different projects in technologies that are demanded in the market.
