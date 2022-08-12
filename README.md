@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🇨🇴 I'm from Colombia.
-- 💻 I’m currently working at **Indra Colombia** as *APX Developer**
+- 💻 I’m currently working at **Indra Colombia** as **APX Developer**
 - 💻 Former **Developer** at **Logyca**
 - 💻  Former **Salesforce Marketing Cloud Developer** at **Inchcape DDC Colombia**
 
