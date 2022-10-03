@@ -48,16 +48,26 @@ Here are some ideas to get you started:
 * HTML
 * CSS (Bootstrap)
 * Flask
+* JSF (Java Server Faces)
 ### - Backend:
 * NodeJS
 * SpringBoot (Maven - Gradle)
+* Spring
+* SpringBatch
 * Flask
-* fastApi
+* FastAPI
 ### - Databases:
 * MySQL (mariaDB)
 * PostgreSQL
 * SQL Server
 * mongoDB
+* Oracle DB
+### - Testing:
+* JUnit
+* Mockito
+* Mocha
+* Supertest
+* Selenium 
 ### Programming languages:
 * Python
 ```
