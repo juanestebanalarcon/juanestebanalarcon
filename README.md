@@ -61,13 +61,19 @@ Here are some ideas to get you started:
 * PostgreSQL
 * SQL Server
 * mongoDB
+* firebase
 * Oracle DB
 ### - Testing:
 * JUnit
 * Mockito
 * Mocha
+* Chai
 * Supertest
 * Selenium 
+### - Mobile
+* AndroidStudio: Java
+* Ionic
+* Flutter
 ### Programming languages:
 * Python
 ```
