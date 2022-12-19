@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ReactJS
 - 📚 I'm **Computer Engineering** Student in my last year.
-- 📈 I have 1 year of work experience, but I have developed different projects in technologies that are demanded in the market.
+- 📈 I have +1 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
 - ⚡ Fun fact: I like to always be busy
 
@@ -127,5 +127,7 @@ constructor(){
 }
 }
 ```
+### - Agile methodologies
+- Scrum
 ## Summary:
 ![image](https://user-images.githubusercontent.com/77359500/164497302-a0f989c4-460f-4c7c-a34d-1931e8588db9.png)
