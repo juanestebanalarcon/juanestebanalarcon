@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 💻  Former **Salesforce Marketing Cloud Developer** at **Inchcape DDC Colombia**
 
 - 🌱 I’m currently learning ReactJS
-- 📚 I'm **Computer Engineering** Student in my last year.
+- 📚 I'm **Computer Engineer**.
+- 📚 I'm **Computer Security Specialization** Student in my last year.
 - 📈 I have +1 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
 - ⚡ Fun fact: I like to always be busy
@@ -51,6 +52,7 @@ Here are some ideas to get you started:
 * JSF (Java Server Faces)
 ### - Backend:
 * NodeJS
+* Nestjs
 * SpringBoot (Maven - Gradle)
 * Spring
 * SpringBatch
