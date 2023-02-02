@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💻  Former **Salesforce Marketing Cloud Developer** at **Inchcape DDC Colombia**
 - 💻  Former **Back-End Developer** at **Scouts Centinelas 113 Group**
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Swift
 - 📚 I'm **Software Engineer**.
 - 📚 I'm **Computer Security Specialization** Student in my last year.
 - 📈 I have +3 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 * AndroidStudio: Java
 * Ionic
 * Flutter
+* Swift
 ### Programming languages:
 * Python
 ```
