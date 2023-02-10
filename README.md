@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 - Critical thinking
 
 ## Knowledge
-
+### - OS:
+* Windows
+* Linux (CentOS, KaliLinux, Ubuntu, among others)
+* MacOS
 ### - Frontend:
 * Angular (TypeScript, Angular material, PrimeNg)
 * VueJS
