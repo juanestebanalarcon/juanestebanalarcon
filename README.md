@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift
 - 📚 I'm **Software Engineer**.
 - 📚 I'm **Computer Security Specialization** Student in my last year.
-- 📈 I have +3 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
+- 📈 I have +2 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
 - ⚡ Fun fact: I like to always be busy
 
