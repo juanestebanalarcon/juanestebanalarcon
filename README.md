@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🇨🇴 I'm from Colombia.
-- 💻 I’m currently working at **Indra Colombia** as **APX Developer**
+- 💻 I’m currently working at **Ultracom IT S.A.S** as **Data Engineer**
+- 💻 Former **APX Developer** at **Indra Colombia**
 - 💻 Former **Developer** at **Logyca**
 - 💻  Former **Salesforce Marketing Cloud Developer** at **Inchcape DDC Colombia**
 - 💻  Former **Back-End Developer** at **Scouts Centinelas 113 Group**
@@ -81,6 +82,10 @@ Here are some ideas to get you started:
 * Ionic
 * Flutter
 * Swift
+### - Data Science
+* Apache Hadoop (YARN-MapReducer-Pig-among others)
+* Spark 
+* HDFS
 ### Programming languages:
 * Python
 ```
