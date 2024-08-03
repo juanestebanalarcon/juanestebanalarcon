@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🇨🇴 I'm from Colombia.
-- 💻 I’m currently working at **Ultracom IT S.A.S** as **Data Engineer**
+- 💻 I’m currently working at **Grupo Bancolomia** as **Software Engineer**
 - 💻 Former **APX Developer** at **Indra Colombia**
+- 💻 Former **Data Engineer** at **Ultracom IT S.A.S**
 - 💻 Former **Developer** at **Logyca**
-- 💻  Former **Salesforce Marketing Cloud Developer** at **Inchcape DDC Colombia**
 - 💻  Former **Back-End Developer** at **Scouts Centinelas 113 Group**
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning AI
 - 📚 I'm **Software Engineer**.
-- 📚 I'm **Computer Security Specialization** Student in my last year.
-- 📈 I have +2 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
+- 📚 I'm **Master in Data Science** Student in my fisrt year.
+- 📈 I have +4 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
 - ⚡ Fun fact: I like to always be busy
 
