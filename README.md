@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 - 🇨🇴 I'm from Colombia.
 - 💻 I’m currently working at **Grupo Bancolomia** as **Software Engineer**
-- 💻 Former **APX Developer** at **Indra Colombia**
 - 💻 Former **Data Engineer** at **Ultracom IT S.A.S**
+- 💻 Former **APX Developer** at **Indra Colombia**
 - 💻 Former **Developer** at **Logyca**
 - 💻  Former **Back-End Developer** at **Scouts Centinelas 113 Group**
 
 - 🌱 I’m currently learning AI
 - 📚 I'm **Software Engineer**.
-- 📚 I'm **Master in Data Science** Student in my fisrt year.
+- 📚 I'm **Master in Data Science** Student in my first year.
 - 📈 I have +4 year of work experience as back-end developer, I have developed different projects in technologies that are demanded in the market.
 (You should see my repositories).
 - ⚡ Fun fact: I like to always be busy
@@ -76,14 +76,15 @@ Here are some ideas to get you started:
 * Mocha
 * Chai
 * Supertest
-* Selenium 
+* Selenium
+* PyTest
 ### - Mobile
 * AndroidStudio: Java
 * Ionic
 * Flutter
 * Swift
 ### - Data Science
-* Apache Hadoop (YARN-MapReducer-Pig-among others)
+* Apache Hadoop (YARN-MapReducer-Pig-Hive-Hue-Impala, among others)
 * Spark 
 * HDFS
 ### Programming languages:
