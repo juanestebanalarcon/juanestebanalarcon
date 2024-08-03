@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🇨🇴 I'm from Colombia.
-- 💻 I’m currently working at **Grupo Bancolomia** as **Software Engineer**
+- 💻 I’m currently working at **Grupo Bancolombia** as **Software Engineer**
 - 💻 Former **Data Engineer** at **Ultracom IT S.A.S**
 - 💻 Former **APX Developer** at **Indra Colombia**
 - 💻 Former **Developer** at **Logyca**
